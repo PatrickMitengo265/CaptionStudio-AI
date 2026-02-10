@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CaptionStudio AI",
+  "description": "An advanced AI-powered video editing tool for automatic captioning, removal of objects, and multi-language translation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
